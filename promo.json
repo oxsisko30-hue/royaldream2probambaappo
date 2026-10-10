@@ -1,19 +1,19 @@
 {
-  "enabled": false,
+  "enabled": true,
   "promos": [
     {
       "id": "mygame1",
-      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/royaldreamprobamba1/refs/heads/main/Create_portrait_cross_promo_card_202609020609.jpeg",
+      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/royaldream2probambaappo/refs/heads/main/Transform_app_icon_promo_card_20261010143659.jpg",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.tangluckslots.tang.luck.chmiti&gl=us"
     },
     {
       "id": "mygame2",
-      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/royaldreamprobamba1/refs/heads/main/Designing_app_cross_promo_card_202609020518.jpeg",
+      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/royaldream2probambaappo/refs/heads/main/Transform_app_icon_promo_card_20261010145719.jpg",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.playtimeph.playtimecasino.play.time.safix&gl=ph"
     },
     {
       "id": "mygame3",
-      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/royaldreamprobamba1/refs/heads/main/Transforming_app_icon_to_promo_202609020524.jpeg",
+      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/royaldream2probambaappo/refs/heads/main/Transform_app_icon_promo_card_20261010143659.jpg",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.tangluckslots.tang.luck.chmiti&gl=us"
     }
   ]
